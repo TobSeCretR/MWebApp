@@ -1,0 +1,7 @@
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/MyWebApp
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/appsettings.json
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/MyWebApp.dll
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/MyWebApp.deps.json
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/MyWebApp.runtimeconfig.json
+/Users/tobi/Nextcloud/Scripts/c#/MyWebApp/bin/Debug/net6.0/publish/MyWebApp.pdb
